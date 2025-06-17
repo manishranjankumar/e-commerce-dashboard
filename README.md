@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-Then open https://manishranjankumar.github.io/e-commerce-dashboard/(http://localhost:5173) in your browser.
+[E-commerce-dashboard] (https://manishranjankumar.github.io/e-commerce-dashboard/)
 
 ---
 
